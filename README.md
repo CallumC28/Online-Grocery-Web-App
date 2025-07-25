@@ -1,5 +1,3 @@
-# Online-Grocery-Web-App
-Web Development Coursework. 
 # 🥦 Online Grocery Store  
 Web Development Coursework. 
 
