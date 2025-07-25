@@ -91,13 +91,14 @@ Open phpMyAdmin
 Run the SQL schema provided above
 
 Access the app at:
-http://localhost/online-grocery-store/index.php
+http://localhost/online-grocery-store/index.php (Will most likely be different depending on your own file path)
 
-Create a manager manually (only one allowed):
+Create a manager manually:
 ```sql
 INSERT INTO grocery_db_users (name, phone, email, password, role)
 VALUES ('Manager', '07123456789', 'manager@example.com', '<hashed_pw>', 'manager');
 ```
 Generate <hashed_password> in PHP with:
+```
 <?php echo password_hash('manager', PASSWORD_DEFAULT); ?>
-
+```
