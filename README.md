@@ -1,7 +1,7 @@
 # 🥦 Online Grocery Store  
 Web Development Coursework. 
 
-A fully responsive and secure online grocery store built using PHP, MySQL, Tailwind CSS, JavaScript (AJAX), and ReactJS. This project was developed for the CSC-30025 Advanced Web Technologies module, showcasing user registration, live product browsing, order management, and a RESTful API for manager access.
+A fully responsive and secure online grocery store built using PHP, MySQL, Tailwind CSS, JavaScript (AJAX), and ReactJS. This project was developed for the Advanced Web Technologies module I studied, showcasing user registration, live product browsing, order management, and a RESTful API for manager access.
 
 ## Project Features
 
