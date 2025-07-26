@@ -58,6 +58,7 @@ Below are sample screenshots of key pages and features of the Online Grocery Sto
 ### 🔍 Manager API Interface (Search by Order ID)
 ![Manager API](screenshots/manager.png)
 
+---
 
 ## ⚙️ Database Schema
 
