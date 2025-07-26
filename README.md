@@ -36,6 +36,29 @@ A fully responsive and secure online grocery store built using PHP, MySQL, Tailw
 
 ---
 
+## 🖼️ Screenshots
+
+Below are sample screenshots of key pages and features of the Online Grocery Store web application:
+
+### 🏠 Homepage (Product Browser)
+![Homepage](screenshots/homepage.png)
+
+### 🔐 Registration Page with React Validation
+![Register](screenshots/register.png)
+
+### 🔑 Login Page with CAPTCHA
+![Login](screenshots/login.png)
+
+### 🛒 Order Form (for Logged-in Users)
+![Order Page](screenshots/order.png)
+
+### 📦 My Orders Page
+![My Orders](screenshots/order_list.png)
+
+### 🔍 Manager API Interface (Search by Order ID)
+![Manager API](screenshots/manager.png)
+
+
 ## ⚙️ Database Schema
 
 **Database Name:** `x5z36`
