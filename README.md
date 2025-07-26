@@ -36,7 +36,7 @@ A fully responsive and secure online grocery store built using PHP, MySQL, Tailw
 
 ---
 
-## ⚙️ Database Schema (Updated)
+## ⚙️ Database Schema
 
 **Database Name:** `x5z36`
 
