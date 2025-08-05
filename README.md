@@ -5,13 +5,13 @@ A fully responsive and secure online grocery store built using PHP, MySQL, Tailw
 
 ## Project Features
 
-### 🛍 Public Users (Not Logged In)
+### Public Users (Not Logged In)
 - Browse products by category (Vegetables, Meat)
 - View product names and images
 - No prices shown until login (privacy and user incentive)
 - Mobile-first design using Tailwind CSS
 
-### 👤 Registered Customers
+### Registered Customers
 - Register using a form with **live validation (ReactJS)**
 - CAPTCHA-secured login
 - View product prices
