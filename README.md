@@ -1,4 +1,4 @@
-# 🥦 Online Grocery Store  
+# Online Grocery Store  
 Web Development Coursework. 
 
 A fully responsive and secure online grocery store built using PHP, MySQL, Tailwind CSS, JavaScript (AJAX), and ReactJS. This project was developed for the Advanced Web Technologies module I studied, showcasing user registration, live product browsing, order management, and a RESTful API for manager access.
@@ -18,12 +18,12 @@ A fully responsive and secure online grocery store built using PHP, MySQL, Tailw
 - Place orders with multiple items and quantities
 - View order history (`my_orders.php`)
 
-### 🧑‍💼 Manager Role
+### Manager Role
 - Access a **Manager API** page to:
   - View detailed order information using a RESTful API
 - Manager-only navigation tab (visible only when logged in as manager)
 
-## 🧑‍💻 Technologies Used
+## Technologies Used
 
 | Area            | Technology                         |
 |-----------------|-------------------------------------|
@@ -36,31 +36,31 @@ A fully responsive and secure online grocery store built using PHP, MySQL, Tailw
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
 Below are sample screenshots of key pages and features of the Online Grocery Store web application:
 
-### 🏠 Homepage (Product Browser)
+### Homepage (Product Browser)
 ![Homepage](screenshots/homepage.png)
 
-### 🔐 Registration Page with React Validation
+### Registration Page with React Validation
 ![Register](screenshots/register.png)
 
-### 🔑 Login Page with CAPTCHA
+### Login Page with CAPTCHA
 ![Login](screenshots/login.png)
 
 ### 🛒 Order Form (for Logged-in Users)
 ![Order Page](screenshots/order.png)
 
-### 📦 My Orders Page
+### My Orders Page
 ![My Orders](screenshots/order_list.png)
 
-### 🔍 Manager API Interface (Search by Order ID)
+### Manager API Interface (Search by Order ID)
 ![Manager API](screenshots/manager.png)
 
 ---
 
-## ⚙️ Database Schema
+## Database Schema
 
 **Database Name:** `x5z36`
 
@@ -103,7 +103,7 @@ CREATE TABLE grocery_db_order_items (
 );
 ```
 
-## 🛠️ Setup Instructions (XAMPP)
+## Setup Instructions (XAMPP)
 Clone or Download the project to your htdocs/ directory.
 
 Start Apache & MySQL from XAMPP Control Panel.
