@@ -49,7 +49,7 @@ Below are sample screenshots of key pages and features of the Online Grocery Sto
 ### Login Page with CAPTCHA
 ![Login](screenshots/login.png)
 
-### 🛒 Order Form (for Logged-in Users)
+### Order Form (for Logged-in Users)
 ![Order Page](screenshots/order.png)
 
 ### My Orders Page
